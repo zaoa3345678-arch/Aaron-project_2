@@ -1,4 +1,5 @@
 import tkinter as tk #Python
+# import Tkinter as tk
 
 win = tk.Tk()
 win.title("tkinter GUI")
